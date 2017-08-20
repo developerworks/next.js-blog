@@ -1,6 +1,12 @@
 [
   {
     "userId": "developerworks",
+    "id": 1190000010754970,
+    "title": "应用 Next.js: 开发一个博客程序 - 入门",
+    "permalink": "https://segmentfault.com/a/1190000010754970"
+  },
+  {
+    "userId": "developerworks",
     "id": 1190000010641558,
     "title": "GraphQL 进阶: 使用RabbitMQ作为PubSub后端实现GraphQL订阅",
     "permalink": "https://segmentfault.com/a/1190000010641558"
