@@ -146,6 +146,12 @@ https://github.com/developerworks/next.js-blog
 > 注:
 > Windows 下的Git命令注意设置一下: `git config --global core.autocrlf false`
 
+## 最终效果
+
+![clipboard.png](https://segmentfault.com/img/bVTh1f)
+
+![clipboard.png](https://segmentfault.com/img/bVTh1h)
+
 ## 参考资料
 
 - [Next.js通用动态路由][1] (何谓通用? 就是在服务器端和客户端都可以使用的路由)
