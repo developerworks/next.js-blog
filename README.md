@@ -1,3 +1,6 @@
+
+![clipboard.png](https://segmentfault.com/img/bVTh3x)
+
 ## 环境配置
 
 这篇文章的环境是Windows, 正好也说一下Windows下前段开发的工具链
