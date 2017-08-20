@@ -141,6 +141,7 @@ export default IndexPage
 
 ## 代码仓库
 
+https://github.com/developerworks/next.js-blog
 
 > 注:
 > Windows 下的Git命令注意设置一下: `git config --global core.autocrlf false`
